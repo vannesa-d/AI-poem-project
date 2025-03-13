@@ -55,3 +55,11 @@ button {
 button:hover {
     background: #5c4033;
 }
+
+#poemOutput {
+    font-style: italic;
+    margin-top: 20px;
+    white-space: pre-line;
+    font-size: 1.3rem;
+    color: #5c4033;
+}
