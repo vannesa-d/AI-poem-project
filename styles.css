@@ -1,0 +1,11 @@
+body {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #f7f1eb;
+    color: #5c4033;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    transition: background 0.5s, color 0.5s;
+}
