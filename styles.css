@@ -20,3 +20,22 @@ body {
     max-width: 500px;
     transition: background 0.5s;
 }
+
+h1 {
+    font-size: 2rem;
+    color: #8b5e3c;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    border: 2px solid #d1bfa7;
+    border-radius: 5px;
+    font-size: 1rem;
+    outline: none;
+}
